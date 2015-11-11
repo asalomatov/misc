@@ -1,0 +1,53 @@
+sbatch -J GEN15-40-D1_cvrg --ntasks-per-node=4 -D ./ -o GEN15-40-D1_cvrg.out -e GEN15-40-D1_cvrg.err
+/mnt/xfs1/scratch/asalomatov/BloodVsSaliva/scripts/runMetrics.sh /mnt/xfs1/scratch/asalomatov/BloodVsSaliva
+/mnt/xfs1/scratch/asalomatov/BloodVsSaliva/output GEN15-40-D1 
+Submitted batch job 64739
+sbatch -J GEN15-41-D1_cvrg --ntasks-per-node=4 -D ./ -o GEN15-41-D1_cvrg.out -e GEN15-41-D1_cvrg.err
+/mnt/xfs1/scratch/asalomatov/BloodVsSaliva/scripts/runMetrics.sh /mnt/xfs1/scratch/asalomatov/BloodVsSaliva
+/mnt/xfs1/scratch/asalomatov/BloodVsSaliva/output GEN15-41-D1 
+Submitted batch job 64740
+sbatch -J GEN15-42-D1_cvrg --ntasks-per-node=4 -D ./ -o GEN15-42-D1_cvrg.out -e GEN15-42-D1_cvrg.err
+/mnt/xfs1/scratch/asalomatov/BloodVsSaliva/scripts/runMetrics.sh /mnt/xfs1/scratch/asalomatov/BloodVsSaliva
+/mnt/xfs1/scratch/asalomatov/BloodVsSaliva/output GEN15-42-D1 
+Submitted batch job 64741
+sbatch -J GEN15-43-D1_cvrg --ntasks-per-node=4 -D ./ -o GEN15-43-D1_cvrg.out -e GEN15-43-D1_cvrg.err
+/mnt/xfs1/scratch/asalomatov/BloodVsSaliva/scripts/runMetrics.sh /mnt/xfs1/scratch/asalomatov/BloodVsSaliva
+/mnt/xfs1/scratch/asalomatov/BloodVsSaliva/output GEN15-43-D1 
+Submitted batch job 64742
+sbatch -J GEN15-43F-D1_cvrg --ntasks-per-node=4 -D ./ -o GEN15-43F-D1_cvrg.out -e GEN15-43F-D1_cvrg.err
+/mnt/xfs1/scratch/asalomatov/BloodVsSaliva/scripts/runMetrics.sh /mnt/xfs1/scratch/asalomatov/BloodVsSaliva
+/mnt/xfs1/scratch/asalomatov/BloodVsSaliva/output GEN15-43F-D1 
+Submitted batch job 64743
+sbatch -J GEN15-44-D1_cvrg --ntasks-per-node=4 -D ./ -o GEN15-44-D1_cvrg.out -e GEN15-44-D1_cvrg.err
+/mnt/xfs1/scratch/asalomatov/BloodVsSaliva/scripts/runMetrics.sh /mnt/xfs1/scratch/asalomatov/BloodVsSaliva
+/mnt/xfs1/scratch/asalomatov/BloodVsSaliva/output GEN15-44-D1 
+Submitted batch job 64744
+sbatch -J GEN15-45-D1_cvrg --ntasks-per-node=4 -D ./ -o GEN15-45-D1_cvrg.out -e GEN15-45-D1_cvrg.err
+/mnt/xfs1/scratch/asalomatov/BloodVsSaliva/scripts/runMetrics.sh /mnt/xfs1/scratch/asalomatov/BloodVsSaliva
+/mnt/xfs1/scratch/asalomatov/BloodVsSaliva/output GEN15-45-D1 
+Submitted batch job 64745
+sbatch -J GEN15-46-D1_cvrg --ntasks-per-node=4 -D ./ -o GEN15-46-D1_cvrg.out -e GEN15-46-D1_cvrg.err
+/mnt/xfs1/scratch/asalomatov/BloodVsSaliva/scripts/runMetrics.sh /mnt/xfs1/scratch/asalomatov/BloodVsSaliva
+/mnt/xfs1/scratch/asalomatov/BloodVsSaliva/output GEN15-46-D1 
+Submitted batch job 64746
+sbatch -J GEN15-46R-D1_cvrg --ntasks-per-node=4 -D ./ -o GEN15-46R-D1_cvrg.out -e GEN15-46R-D1_cvrg.err
+/mnt/xfs1/scratch/asalomatov/BloodVsSaliva/scripts/runMetrics.sh /mnt/xfs1/scratch/asalomatov/BloodVsSaliva
+/mnt/xfs1/scratch/asalomatov/BloodVsSaliva/output GEN15-46R-D1 
+Submitted batch job 64747
+sbatch -J GEN15-54-D1_cvrg --ntasks-per-node=4 -D ./ -o GEN15-54-D1_cvrg.out -e GEN15-54-D1_cvrg.err
+/mnt/xfs1/scratch/asalomatov/BloodVsSaliva/scripts/runMetrics.sh /mnt/xfs1/scratch/asalomatov/BloodVsSaliva
+/mnt/xfs1/scratch/asalomatov/BloodVsSaliva/output GEN15-54-D1 
+Submitted batch job 64748
+sbatch -J GEN15-54M-D1_cvrg --ntasks-per-node=4 -D ./ -o GEN15-54M-D1_cvrg.out -e GEN15-54M-D1_cvrg.err
+/mnt/xfs1/scratch/asalomatov/BloodVsSaliva/scripts/runMetrics.sh /mnt/xfs1/scratch/asalomatov/BloodVsSaliva
+/mnt/xfs1/scratch/asalomatov/BloodVsSaliva/output GEN15-54M-D1 
+Submitted batch job 64749
+sbatch -J GEN15-55-D1_cvrg --ntasks-per-node=4 -D ./ -o GEN15-55-D1_cvrg.out -e GEN15-55-D1_cvrg.err
+/mnt/xfs1/scratch/asalomatov/BloodVsSaliva/scripts/runMetrics.sh /mnt/xfs1/scratch/asalomatov/BloodVsSaliva
+/mnt/xfs1/scratch/asalomatov/BloodVsSaliva/output GEN15-55-D1 
+Submitted batch job 64750
+sbatch -J GEN15-56-D1_cvrg --ntasks-per-node=4 -D ./ -o GEN15-56-D1_cvrg.out -e GEN15-56-D1_cvrg.err
+/mnt/xfs1/scratch/asalomatov/BloodVsSaliva/scripts/runMetrics.sh /mnt/xfs1/scratch/asalomatov/BloodVsSaliva
+/mnt/xfs1/scratch/asalomatov/BloodVsSaliva/output GEN15-56-D1 
+Submitted batch job 64751
+
