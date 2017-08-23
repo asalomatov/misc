@@ -40,16 +40,6 @@ fi
 echo "Running $famcode on $(hostname) in $workdir using $P cores."
 echo "Running ${0} $@ on $(hostname) in $workdir using $P cores." > ${outdir}/logs/runInfo.txt
 
-#make -j $P -f ${srcdir}/flrBam.mk SUFFIX=$sfx INCLMK=$inclmk FAMCODE=$famcode INDIR=$inpd OUTDIR=$outdir LOGDIR=$outdir
-#ret=$?
-#echo $ret
-#if [ $ret -ne 0 ]; then
-#    echo "flrBam.mk INCLMK=$inclmk finished with errors"
-#    exit 1
-#fi
-#sfx='-flr'
-
-#samtools reheader 11480.fa_dnsmpl.new.header 11480.fa_dnsmpl.bam > 11480.fa_dnsmpl-new.bam
 
 make -j $P -f ${srcdir}/indexBam.mk SUFFIX=$sfx INCLMK=$inclmk FAMCODE=$famcode INDIR=$inpd OUTDIR=$inpd LOGDIR=$outdir
 ret=$?
