@@ -1,12 +1,14 @@
-variants/model*
-variants/*_feature_contrib.csv
-variants/col_sum*
-variants/*.h5
-variants/grid_search*
-variants/*.yml
+model*
+*_feature_contrib.csv
+col_sum*
+*.h5
+grid_search*
+*.yml
 *#*#
 .~lock*
 .#*
+*.xls
+*.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
